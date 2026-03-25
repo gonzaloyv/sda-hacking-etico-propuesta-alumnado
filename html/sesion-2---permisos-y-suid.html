@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mn6gk7cf-cdndromel">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-beta3">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Sesion 2 - Permisos y SUID</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<script src="../idevices/form/form.js"></script><link rel="stylesheet" href="../idevices/form/form.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav">
+<ul>
+<li class="current-page-parent"> <a href="../index.html" class="main-node daddy">SdA Propuesta para el alumnado</a>
+<ul class="other-section">
+<li> <a href="../html/introduccion.html" class="no-ch">Introducción</a>
+</li>
+<li> <a href="../html/como-vas-a-trabajar.html" class="no-ch">¿Cómo vas a trabajar?</a>
+</li>
+<li> <a href="../html/productos-finales.html" class="no-ch">Productos finales</a>
+</li>
+<li> <a href="../html/evaluacion.html" class="no-ch">Evaluacion</a>
+</li>
+<li class="current-page-parent"> <a href="../html/sesiones.html" class="daddy">Sesiones</a>
+<ul class="other-section">
+<li> <a href="../html/sesion-1---proceso-servicios-y-persistencia.html" class="no-ch">Sesion 1 - Proceso, Servicios y persistencia</a>
+</li>
+<li class="active"> <a href="../html/sesion-2---permisos-y-suid.html" class="active no-ch">Sesion 2 - Permisos y SUID</a>
+</li>
+<li> <a href="../html/sesion-3---puertos-conexiones-y-monitorizacion.html" class="no-ch">Sesion 3 - Puertos, conexiones y monitorización</a>
+</li>
+<li> <a href="../html/sesion-4---reconocimiento-con-nmap-.html" class="no-ch">Sesion 4 -  Reconocimiento con nmap </a>
+</li>
+<li> <a href="../html/sesion-5---acceso-remoto-con-netcat-.html" class="no-ch">Sesión 5 - Acceso remoto con netcat </a>
+</li>
+<li> <a href="../html/sesion-6---elaboracion-de-productos-y-cierre.html" class="no-ch">Sesion 6 - Elaboración de productos y cierre</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/diccionario.html" class="no-ch">Diccionario</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/atribucion-y-descarga.html" class="no-ch">Atribución y Descarga</a>
+</li>
+</ul>
+</nav><main id="page-mn6gk7cf-cdndromel" class="page"> 
+<header class="main-header">
+<div class="package-header"><h1 class="package-title">SdA Propuesta para el alumnado</h1></div>
+<div class="page-header"><h2 class="page-title">Sesion 2 - Permisos y SUID</h2></div>
+</header><div id="page-content-page-mn6gk7cf-cdndromel" class="page-content">
+<article id="block-1774444393939-rpdi34g0o" class="box no-header">
+<header class="box-head no-icon">
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774444393938-6ivmzo772" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774444393938-6ivmzo772&quot;}">
+<div class="exe-text-template">
+    <p><img src="../content/resources/mceclip2.png" /></p>
+</div>
+</div>
+</div>
+</article><article id="block-1774354088095-0pr6b3k6r" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Introducción</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774354088093-w75vjp1p8" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774354088093-w75vjp1p8&quot;}">
+<div class="exe-text-template">
+    <p>En esta sesión aprenderás cómo funcionan los permisos en sistemas Linux y cómo pueden convertirse en una vulnerabilidad.<br />Analizarás usuarios, grupos y configuraciones inseguras que podrían permitir la escalada de privilegios.</p>
+<p></p>
+<p><em>"SUID es una puerta potencial a ser root”</em></p>
+</div>
+</div><div id="idevice-1774354122973-9p86zlhrx" class="idevice_node form db-no-data" data-idevice-path="../idevices/form/" data-idevice-type="form" data-idevice-component-type="json" data-idevice-template="form.html">
+
+</div>
+</div>
+</article><article id="block-1774397527854-ovgfd6kex" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 1: Permisos básicos</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774397527853-suqmyjkoe" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774397527853-suqmyjkoe&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<p><code>ls -l</code><br /> <br />1. ¿Qué significan los permisos rwx?<br />2. ¿Quién es el propietario del archivo?<br />3. ¿Qué permisos tiene el grupo?</p>
+</div>
+</div>
+</div>
+</article><article id="block-1774397764921-obmkiyw8n" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 2: Identidad del usuario</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774397764919-ckedmy9wd" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774397764919-ckedmy9wd&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<ul>
+<li><code>whoami</code></li>
+<li><code></code><code>id</code></li>
+</ul>
+<p>Responde:</p>
+<ol>
+<li>¿Qué usuario estás utilizando?</li>
+<li>¿A qué grupos pertenece?</li>
+<li>¿Por qué es importante esta información?</li>
+</ol>
+</div>
+</div>
+</div>
+</article><article id="block-1774356810504-eidy3dcwu" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">SUID</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774356810503-49o9iu0ay" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774356810503-49o9iu0ay&quot;}">
+<div class="exe-text-template">
+    <p>El bit SUID permite que un programa se ejecute con los privilegios del propietario del archivo, lo que puede ser aprovechado para escalar privilegios si está mal configurado.</p>
+</div>
+</div>
+</div>
+</article><article id="block-1774397641911-o6rp5vv97" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 3: SUID</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774397641910-a8w5boc6g" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774397641910-a8w5boc6g&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<p><code>find / -perm -4000 2>/dev/null</code><br /> <br />1. ¿Qué significa SUID?<br />2. ¿Por qué puede ser peligroso?<br />3. ¿Qué binario te llama la atención?</p>
+</div>
+</div>
+</div>
+</article><article id="block-1774357092643-4d4a4m4jf" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Evaluación de la sesión</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774357092641-c147t26vj" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774357092641-c147t26vj&quot;}">
+<div class="exe-text-template">
+    <p>Se realizará mediante:</p>
+<ul>
+<li><strong>Observación directa</strong></li>
+<li><strong>Resolución de actividades</strong></li>
+<li><strong>Participación</strong></li>
+</ul>
+<p>Se valorará la comprensión de los permisos y la identificación de posibles riesgos de seguridad.</p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/sesion-1---proceso-servicios-y-persistencia.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/sesion-3---puertos-conexiones-y-monitorizacion.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0 (BY-SA)</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>

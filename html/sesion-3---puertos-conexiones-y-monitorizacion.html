@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mn6gk7cg-kc6pz1cj5">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-beta3">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Sesion 3 - Puertos, conexiones y monitorización</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav">
+<ul>
+<li class="current-page-parent"> <a href="../index.html" class="main-node daddy">SdA Propuesta para el alumnado</a>
+<ul class="other-section">
+<li> <a href="../html/introduccion.html" class="no-ch">Introducción</a>
+</li>
+<li> <a href="../html/como-vas-a-trabajar.html" class="no-ch">¿Cómo vas a trabajar?</a>
+</li>
+<li> <a href="../html/productos-finales.html" class="no-ch">Productos finales</a>
+</li>
+<li> <a href="../html/evaluacion.html" class="no-ch">Evaluacion</a>
+</li>
+<li class="current-page-parent"> <a href="../html/sesiones.html" class="daddy">Sesiones</a>
+<ul class="other-section">
+<li> <a href="../html/sesion-1---proceso-servicios-y-persistencia.html" class="no-ch">Sesion 1 - Proceso, Servicios y persistencia</a>
+</li>
+<li> <a href="../html/sesion-2---permisos-y-suid.html" class="no-ch">Sesion 2 - Permisos y SUID</a>
+</li>
+<li class="active"> <a href="../html/sesion-3---puertos-conexiones-y-monitorizacion.html" class="active no-ch">Sesion 3 - Puertos, conexiones y monitorización</a>
+</li>
+<li> <a href="../html/sesion-4---reconocimiento-con-nmap-.html" class="no-ch">Sesion 4 -  Reconocimiento con nmap </a>
+</li>
+<li> <a href="../html/sesion-5---acceso-remoto-con-netcat-.html" class="no-ch">Sesión 5 - Acceso remoto con netcat </a>
+</li>
+<li> <a href="../html/sesion-6---elaboracion-de-productos-y-cierre.html" class="no-ch">Sesion 6 - Elaboración de productos y cierre</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/diccionario.html" class="no-ch">Diccionario</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/atribucion-y-descarga.html" class="no-ch">Atribución y Descarga</a>
+</li>
+</ul>
+</nav><main id="page-mn6gk7cg-kc6pz1cj5" class="page"> 
+<header class="main-header">
+<div class="package-header"><h1 class="package-title">SdA Propuesta para el alumnado</h1></div>
+<div class="page-header"><h2 class="page-title">Sesion 3 - Puertos, conexiones y monitorización</h2></div>
+</header><div id="page-content-page-mn6gk7cg-kc6pz1cj5" class="page-content">
+<article id="block-1774444418005-vn65ifgrb" class="box no-header">
+<header class="box-head no-icon">
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774444418003-mnis81am4" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774444418003-mnis81am4&quot;}">
+<div class="exe-text-template">
+    <p><img src="../content/resources/mceclip3.png" /></p>
+</div>
+</div>
+</div>
+</article><article id="block-1774398133456-oh1skqnlc" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Introduccion</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774398133455-twlmdawka" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774398133455-twlmdawka&quot;}">
+<div class="exe-text-template">
+    <p>En esta sesión aprenderás cómo se comunican los sistemas a través de la red.<br />Analizarás puertos, servicios activos y conexiones para entender qué información está expuesta y cómo puede ser utilizada en un contexto de ciberseguridad.</p>
+</div>
+</div>
+</div>
+</article><article id="block-1774398148206-46ue2iphr" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 1: Identificación de red</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774398148205-kdat90xht" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774398148205-kdat90xht&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<ul>
+<li><code>ip a</code></li>
+<li><code></code><code>hostname -I</code><br /></li>
+</ul>
+<p>Responde:</p>
+<ol>
+<li>¿Cuál es la dirección IP de tu máquina?</li>
+<li>¿Qué interfaz de red estás utilizando?</li>
+</ol>
+</div>
+</div>
+</div>
+</article><article id="block-1774398211424-jslqaxfig" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 2: Puertos y servicios</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774398211422-36c9tgl3s" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774398211422-36c9tgl3s&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<ul>
+<li><code>ss -tuln</code><br />(o netstat -tuln si no está disponible)<br /></li>
+</ul>
+<p>Responde:</p>
+<ol>
+<li>¿Qué puertos están abiertos?</li>
+<li>¿Qué significa que un puerto esté en estado LISTEN?</li>
+<li>¿Qué servicio podría estar asociado a alguno de esos puertos?</li>
+</ol>
+</div>
+</div>
+</div>
+</article><article id="block-1774398275536-iuzwk8o8h" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Actividad 3: Conexiones activas</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774398275534-7s9i7g33t" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774398275534-7s9i7g33t&quot;}">
+<div class="exe-text-template">
+    <p>Ejecuta:</p>
+<p><code>lsof -i</code><br />Responde:</p>
+<ol>
+<li>¿Qué conexiones activas encuentras?</li>
+<li>¿Qué procesos están usando la red?</li>
+<li>¿Por qué puede ser útil esta información en ciberseguridad?</li>
+</ol>
+</div>
+</div>
+</div>
+</article><article id="block-1774398317468-h57b5n56y" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Evaluacion</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1774398317467-n8s0fonx6" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1774398317467-n8s0fonx6&quot;}">
+<div class="exe-text-template">
+    <p>Evaluación<br />Esta sesión será evaluada mediante:</p>
+<ul>
+<li><strong>Observación directa durante la realización de las actividades</strong></li>
+<li><strong>Respuestas a las tareas planteadas</strong></li>
+<li><strong>Participación en la sesión</strong><br /></li>
+</ul>
+<p>Se valorará la capacidad para identificar puertos, servicios y conexiones, así como la comprensión de su impacto en la seguridad del sistema.</p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/sesion-2---permisos-y-suid.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/sesion-4---reconocimiento-con-nmap-.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0 (BY-SA)</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
