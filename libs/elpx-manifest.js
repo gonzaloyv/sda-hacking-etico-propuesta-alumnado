@@ -183,6 +183,7 @@ window.__ELPX_MANIFEST__={
     "content/resources/mceclip4.png",
     "content/resources/mceclip5.jpg",
     "content/resources/mceclip0_2.png",
+    "content/resources/mceclip0_3.png",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "SdA Propuesta para el alumnado"
