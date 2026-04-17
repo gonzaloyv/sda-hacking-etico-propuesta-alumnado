@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260331234926JJVU6L</value>
+    <value>20260417110505LR5NDG</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260331234926HDKJFG</value>
+    <value>20260417110505N9CNE5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -48,11 +48,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.0-beta3</value>
+    <value>v4.0.0-rc1</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774993292496</value>
+    <value>1776415541560</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,7 +85,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnf56dqj-yrrio0tx1</odePageId>
+  <odePageId>page-mo2ny44w-mb1ngzaki</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SdA Propuesta para el alumnado</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -121,7 +121,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqj-yrrio0tx1</odePageId>
+      <odePageId>page-mo2ny44w-mb1ngzaki</odePageId>
       <odeBlockId>block-1774394667196-591mv974o</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -150,7 +150,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqj-yrrio0tx1</odePageId>
+          <odePageId>page-mo2ny44w-mb1ngzaki</odePageId>
           <odeBlockId>block-1774394667196-591mv974o</odeBlockId>
           <odeIdeviceId>idevice-1774394667194-ak5raunkm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -179,8 +179,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqn-v9a3wdpk5</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny451-u6rjpbe4q</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>Introducción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -215,7 +215,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqn-v9a3wdpk5</odePageId>
+      <odePageId>page-mo2ny451-u6rjpbe4q</odePageId>
       <odeBlockId>block-1774395691656-tdo8mr5kw</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -244,7 +244,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqn-v9a3wdpk5</odePageId>
+          <odePageId>page-mo2ny451-u6rjpbe4q</odePageId>
           <odeBlockId>block-1774395691656-tdo8mr5kw</odeBlockId>
           <odeIdeviceId>idevice-1774395691655-vsnpz9w3d</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -277,8 +277,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqp-yyigzrycy</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny452-bqjq6fn3k</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>¿Cómo vas a trabajar?</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -321,7 +321,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqp-yyigzrycy</odePageId>
+      <odePageId>page-mo2ny452-bqjq6fn3k</odePageId>
       <odeBlockId>block-1774395795578-0k9cd9cq7</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -350,7 +350,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqp-yyigzrycy</odePageId>
+          <odePageId>page-mo2ny452-bqjq6fn3k</odePageId>
           <odeBlockId>block-1774395795578-0k9cd9cq7</odeBlockId>
           <odeIdeviceId>idevice-1774395795577-y6a24eya7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -383,8 +383,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>Productos finales</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -419,7 +419,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+      <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
       <odeBlockId>block-1774395939016-7wpxslf13</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -448,7 +448,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+          <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
           <odeBlockId>block-1774395939016-7wpxslf13</odeBlockId>
           <odeIdeviceId>idevice-1774395939015-5wrbnsve2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -475,7 +475,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+      <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
       <odeBlockId>block-1774395973281-cf2eidbbv</odeBlockId>
       <blockName>1. Infografía interactiva</blockName>
       <iconName></iconName>
@@ -504,7 +504,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+          <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
           <odeBlockId>block-1774395973281-cf2eidbbv</odeBlockId>
           <odeIdeviceId>idevice-1774395973279-io6vzgvi0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -576,7 +576,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+      <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
       <odeBlockId>block-1774396013044-dzoerlz20</odeBlockId>
       <blockName>2. Vídeo demostrativo</blockName>
       <iconName></iconName>
@@ -605,7 +605,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+          <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
           <odeBlockId>block-1774396013044-dzoerlz20</odeBlockId>
           <odeIdeviceId>idevice-1774396013043-09wgt06ca</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -671,7 +671,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+      <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
       <odeBlockId>block-1774396037819-tvz4r3kdf</odeBlockId>
       <blockName>Entrega de los productos</blockName>
       <iconName></iconName>
@@ -700,7 +700,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqr-fla0s7n2a</odePageId>
+          <odePageId>page-mo2ny453-9i6lk7ff1</odePageId>
           <odeBlockId>block-1774396037819-tvz4r3kdf</odeBlockId>
           <odeIdeviceId>idevice-1774396037818-csjzq6do2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -729,8 +729,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqt-2n2zwu1qi</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny454-hh8pw95kp</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>Evaluacion</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -765,7 +765,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqt-2n2zwu1qi</odePageId>
+      <odePageId>page-mo2ny454-hh8pw95kp</odePageId>
       <odeBlockId>block-1774396302073-n5efiimam</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -794,7 +794,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqt-2n2zwu1qi</odePageId>
+          <odePageId>page-mo2ny454-hh8pw95kp</odePageId>
           <odeBlockId>block-1774396302073-n5efiimam</odeBlockId>
           <odeIdeviceId>idevice-1774396302071-t7fx5j7zs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -834,7 +834,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqt-2n2zwu1qi</odePageId>
+      <odePageId>page-mo2ny454-hh8pw95kp</odePageId>
       <odeBlockId>block-1774396412023-1wfbiot0b</odeBlockId>
       <blockName>Rúbrica de evaluación</blockName>
       <iconName></iconName>
@@ -863,23 +863,61 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqt-2n2zwu1qi</odePageId>
+          <odePageId>page-mo2ny454-hh8pw95kp</odePageId>
           <odeBlockId>block-1774396412023-1wfbiot0b</odeBlockId>
           <odeIdeviceId>idevice-1774396412021-48m2nk4qw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><strong>Infografía:</strong></p>
 <ul>
-<li><strong>Contenido correcto y completo</strong></li>
+<li><strong>Contenido correcto y relacionado con la temática</strong></li>
 <li><strong>Organización clara de la información</strong></li>
-<li><strong>Presentación visual adecuada</strong><br /></li>
+<li><strong>Uso adecuado de elementos visuales</strong></li>
+<li><strong>Comprensión básica de los conceptos</strong></li>
 </ul>
 <p><strong>Vídeo:</strong></p>
 <ul>
-<li><strong>Explicación clara del proceso</strong></li>
-<li><strong>Uso adecuado de herramientas</strong></li>
-<li><strong>Comprensión de los conceptos</strong><br /></li>
+<li><strong>Ejecución técnica de la práctica</strong></li>
+<li><strong>Comprobación del resultado</strong></li>
+<li><strong>Monitorización de la conexión</strong></li>
+<li><strong>Explicación del proceso</strong><strong></strong></li>
 </ul>
+<p><strong>   La evaluación detallada del video se realiza mediante la siguiente rúbrica:</strong></p>
+<table border="1" style="width: 99.9632%; height: 370.042px; border-style: solid;">
+<tbody>
+<tr style="height: 37.6806px;">
+<td style="width: 27.3849%; height: 37.6806px; text-align: center;"><strong>Criterio</strong></td>
+<td style="width: 56.8177%; height: 37.6806px; text-align: center;"><strong>Descripción</strong></td>
+<td style="width: 15.7865%; height: 37.6806px; text-align: left;"><strong>Puntuación</strong></td>
+</tr>
+<tr style="height: 66.4722px;">
+<td style="width: 27.3849%; height: 66.4722px;">1. Ejecución técnica</td>
+<td style="width: 56.8177%; height: 66.4722px;">Se realiza correctamente la práctica (SUID + conexión)</td>
+<td style="width: 15.7865%; height: 66.4722px;">0 – 4</td>
+</tr>
+<tr style="height: 66.4722px;">
+<td style="width: 27.3849%; height: 66.4722px;">2. Comprobación del resultado</td>
+<td style="width: 56.8177%; height: 66.4722px;">Se verifica con whoami y funciona la shell</td>
+<td style="width: 15.7865%; height: 66.4722px;">0 – 2</td>
+</tr>
+<tr style="height: 66.4722px;">
+<td style="width: 27.3849%; height: 66.4722px;">3. Monitorización</td>
+<td style="width: 56.8177%; height: 66.4722px;">Se muestra ss -tanp y se interpreta mínimamente</td>
+<td style="width: 15.7865%; height: 66.4722px;">0 – 2<br /></td>
+</tr>
+<tr style="height: 66.4722px;">
+<td style="width: 27.3849%; height: 66.4722px;">4. Explicación<br /></td>
+<td style="width: 56.8177%; height: 66.4722px;">Se entiende lo que hacen (aunque sea básico)</td>
+<td style="width: 15.7865%; height: 66.4722px;">0 – 1<br /></td>
+</tr>
+<tr style="height: 66.4722px;">
+<td style="width: 27.3849%; height: 66.4722px;">5. Presentación </td>
+<td style="width: 56.8177%; height: 66.4722px;">Vídeo claro, visible, dentro del tiempo (2–4 min) </td>
+<td style="width: 15.7865%; height: 66.4722px;">0 – 1</td>
+</tr>
+</tbody>
+</table>
+<p><strong></strong><br /></p>
 <p><strong>Trabajo en clase:</strong></p>
 <ul>
 <li><strong>Participación</strong></li>
@@ -887,7 +925,7 @@
 <li><strong>Actitud y colaboración</strong></li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774396412021-48m2nk4qw","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Infografía:</strong></p>\n<ul>\n<li><strong>Contenido correcto y completo</strong></li>\n<li><strong>Organización clara de la información</strong></li>\n<li><strong>Presentación visual adecuada</strong><br /></li>\n</ul>\n<p><strong>Vídeo:</strong></p>\n<ul>\n<li><strong>Explicación clara del proceso</strong></li>\n<li><strong>Uso adecuado de herramientas</strong></li>\n<li><strong>Comprensión de los conceptos</strong><br /></li>\n</ul>\n<p><strong>Trabajo en clase:</strong></p>\n<ul>\n<li><strong>Participación</strong></li>\n<li><strong>Resolución de actividades</strong></li>\n<li><strong>Actitud y colaboración</strong></li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774396412021-48m2nk4qw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Infografía:</strong></p>\n<ul>\n<li><strong>Contenido correcto y relacionado con la temática</strong></li>\n<li><strong>Organización clara de la información</strong></li>\n<li><strong>Uso adecuado de elementos visuales</strong></li>\n<li><strong>Comprensión básica de los conceptos</strong></li>\n</ul>\n<p><strong>Vídeo:</strong></p>\n<ul>\n<li><strong>Ejecución técnica de la práctica</strong></li>\n<li><strong>Comprobación del resultado</strong></li>\n<li><strong>Monitorización de la conexión</strong></li>\n<li><strong>Explicación del proceso</strong><strong></strong></li>\n</ul>\n<p><strong>   La evaluación detallada del video se realiza mediante la siguiente rúbrica:</strong></p>\n<table border=\"1\" style=\"width: 99.9632%; height: 370.042px; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.6806px;\">\n<td style=\"width: 27.3849%; height: 37.6806px; text-align: center;\"><strong>Criterio</strong></td>\n<td style=\"width: 56.8177%; height: 37.6806px; text-align: center;\"><strong>Descripción</strong></td>\n<td style=\"width: 15.7865%; height: 37.6806px; text-align: left;\"><strong>Puntuación</strong></td>\n</tr>\n<tr style=\"height: 66.4722px;\">\n<td style=\"width: 27.3849%; height: 66.4722px;\">1. Ejecución técnica</td>\n<td style=\"width: 56.8177%; height: 66.4722px;\">Se realiza correctamente la práctica (SUID + conexión)</td>\n<td style=\"width: 15.7865%; height: 66.4722px;\">0 – 4</td>\n</tr>\n<tr style=\"height: 66.4722px;\">\n<td style=\"width: 27.3849%; height: 66.4722px;\">2. Comprobación del resultado</td>\n<td style=\"width: 56.8177%; height: 66.4722px;\">Se verifica con whoami y funciona la shell</td>\n<td style=\"width: 15.7865%; height: 66.4722px;\">0 – 2</td>\n</tr>\n<tr style=\"height: 66.4722px;\">\n<td style=\"width: 27.3849%; height: 66.4722px;\">3. Monitorización</td>\n<td style=\"width: 56.8177%; height: 66.4722px;\">Se muestra ss -tanp y se interpreta mínimamente</td>\n<td style=\"width: 15.7865%; height: 66.4722px;\">0 – 2<br /></td>\n</tr>\n<tr style=\"height: 66.4722px;\">\n<td style=\"width: 27.3849%; height: 66.4722px;\">4. Explicación<br /></td>\n<td style=\"width: 56.8177%; height: 66.4722px;\">Se entiende lo que hacen (aunque sea básico)</td>\n<td style=\"width: 15.7865%; height: 66.4722px;\">0 – 1<br /></td>\n</tr>\n<tr style=\"height: 66.4722px;\">\n<td style=\"width: 27.3849%; height: 66.4722px;\">5. Presentación </td>\n<td style=\"width: 56.8177%; height: 66.4722px;\">Vídeo claro, visible, dentro del tiempo (2–4 min) </td>\n<td style=\"width: 15.7865%; height: 66.4722px;\">0 – 1</td>\n</tr>\n</tbody>\n</table>\n<p><strong></strong><br /></p>\n<p><strong>Trabajo en clase:</strong></p>\n<ul>\n<li><strong>Participación</strong></li>\n<li><strong>Resolución de actividades</strong></li>\n<li><strong>Actitud y colaboración</strong></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -909,8 +947,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqv-kyizqzjtl</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny455-95fnc6djm</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>Sesiones</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -947,8 +985,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesion 1 - Proceso, Servicios y persistencia</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -983,7 +1021,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774444364071-m1sxpjcvm</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1012,7 +1050,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774444364071-m1sxpjcvm</odeBlockId>
           <odeIdeviceId>idevice-1774444364069-1tkd4ro8r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1039,7 +1077,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774396853007-gwvnjkikx</odeBlockId>
       <blockName>Introduccion</blockName>
       <iconName></iconName>
@@ -1068,7 +1106,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774396853007-gwvnjkikx</odeBlockId>
           <odeIdeviceId>idevice-1774396853006-cyldfx69r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1096,7 +1134,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774396907998-mpszosif3</odeBlockId>
       <blockName>Actividad 1: Análisis de procesos</blockName>
       <iconName></iconName>
@@ -1125,7 +1163,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774396907998-mpszosif3</odeBlockId>
           <odeIdeviceId>idevice-1774396907996-a250dqmtv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1161,7 +1199,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774396967529-gddbzjkvj</odeBlockId>
       <blockName>Actividad 2: Servicios</blockName>
       <iconName></iconName>
@@ -1190,7 +1228,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774396967529-gddbzjkvj</odeBlockId>
           <odeIdeviceId>idevice-1774396967528-5201cw6ln</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1223,7 +1261,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774397066543-bqag57kvj</odeBlockId>
       <blockName>Actividad 3: Cron</blockName>
       <iconName></iconName>
@@ -1252,7 +1290,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774397066543-bqag57kvj</odeBlockId>
           <odeIdeviceId>idevice-1774397066541-2rkgn14dp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1288,7 +1326,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+      <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
       <odeBlockId>block-1774397140558-6l0artomx</odeBlockId>
       <blockName>Evaluación de la sesión</blockName>
       <iconName></iconName>
@@ -1317,7 +1355,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqv-qlfwnzlz0</odePageId>
+          <odePageId>page-mo2ny456-gx5vzfsem</odePageId>
           <odeBlockId>block-1774397140558-6l0artomx</odeBlockId>
           <odeIdeviceId>idevice-1774397140557-mpy706zx6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1352,8 +1390,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny457-26ms6inwo</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesion 2 - Permisos y SUID</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1388,7 +1426,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774444393939-rpdi34g0o</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1417,7 +1455,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774444393939-rpdi34g0o</odeBlockId>
           <odeIdeviceId>idevice-1774444393938-6ivmzo772</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1444,7 +1482,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774354088095-0pr6b3k6r</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -1473,7 +1511,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774354088095-0pr6b3k6r</odeBlockId>
           <odeIdeviceId>idevice-1774354088093-w75vjp1p8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1500,7 +1538,7 @@
           </odeComponentsProperties>
         </odeComponent>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774354088095-0pr6b3k6r</odeBlockId>
           <odeIdeviceId>idevice-1774354122973-9p86zlhrx</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -1525,7 +1563,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774397527854-ovgfd6kex</odeBlockId>
       <blockName>Actividad 1: Permisos básicos</blockName>
       <iconName></iconName>
@@ -1554,7 +1592,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774397527854-ovgfd6kex</odeBlockId>
           <odeIdeviceId>idevice-1774397527853-suqmyjkoe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1582,7 +1620,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774397764921-obmkiyw8n</odeBlockId>
       <blockName>Actividad 2: Identidad del usuario</blockName>
       <iconName></iconName>
@@ -1611,7 +1649,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774397764921-obmkiyw8n</odeBlockId>
           <odeIdeviceId>idevice-1774397764919-ckedmy9wd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1648,7 +1686,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774356810504-eidy3dcwu</odeBlockId>
       <blockName>SUID</blockName>
       <iconName></iconName>
@@ -1677,7 +1715,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774356810504-eidy3dcwu</odeBlockId>
           <odeIdeviceId>idevice-1774356810503-49o9iu0ay</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1704,7 +1742,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774397641911-o6rp5vv97</odeBlockId>
       <blockName>Actividad 3: SUID</blockName>
       <iconName></iconName>
@@ -1733,7 +1771,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774397641911-o6rp5vv97</odeBlockId>
           <odeIdeviceId>idevice-1774397641910-a8w5boc6g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1761,7 +1799,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+      <odePageId>page-mo2ny457-26ms6inwo</odePageId>
       <odeBlockId>block-1774357092643-4d4a4m4jf</odeBlockId>
       <blockName>Evaluación de la sesión</blockName>
       <iconName></iconName>
@@ -1790,7 +1828,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dqy-9wv5bbudk</odePageId>
+          <odePageId>page-mo2ny457-26ms6inwo</odePageId>
           <odeBlockId>block-1774357092643-4d4a4m4jf</odeBlockId>
           <odeIdeviceId>idevice-1774357092641-c147t26vj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1825,8 +1863,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesion 3 - Puertos, conexiones y monitorización</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1861,7 +1899,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774444418005-vn65ifgrb</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1890,7 +1928,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774444418005-vn65ifgrb</odeBlockId>
           <odeIdeviceId>idevice-1774444418003-mnis81am4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1917,7 +1955,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774398133456-oh1skqnlc</odeBlockId>
       <blockName>Introduccion</blockName>
       <iconName></iconName>
@@ -1946,7 +1984,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774398133456-oh1skqnlc</odeBlockId>
           <odeIdeviceId>idevice-1774398133455-twlmdawka</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1973,7 +2011,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774398148206-46ue2iphr</odeBlockId>
       <blockName>Actividad 1: Identificación de red</blockName>
       <iconName></iconName>
@@ -2002,7 +2040,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774398148206-46ue2iphr</odeBlockId>
           <odeIdeviceId>idevice-1774398148205-kdat90xht</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2038,7 +2076,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774398211424-jslqaxfig</odeBlockId>
       <blockName>Actividad 2: Puertos y servicios</blockName>
       <iconName></iconName>
@@ -2067,7 +2105,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774398211424-jslqaxfig</odeBlockId>
           <odeIdeviceId>idevice-1774398211422-36c9tgl3s</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2103,7 +2141,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774398275536-iuzwk8o8h</odeBlockId>
       <blockName>Actividad 3: Conexiones activas</blockName>
       <iconName></iconName>
@@ -2132,7 +2170,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774398275536-iuzwk8o8h</odeBlockId>
           <odeIdeviceId>idevice-1774398275534-7s9i7g33t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2165,7 +2203,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+      <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
       <odeBlockId>block-1774398317468-h57b5n56y</odeBlockId>
       <blockName>Evaluacion</blockName>
       <iconName></iconName>
@@ -2194,7 +2232,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr0-g5dowdp3t</odePageId>
+          <odePageId>page-mo2ny459-0l2xaz53f</odePageId>
           <odeBlockId>block-1774398317468-h57b5n56y</odeBlockId>
           <odeIdeviceId>idevice-1774398317467-n8s0fonx6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2229,8 +2267,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny45b-3arzzredh</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesion 4 -  Reconocimiento con nmap </pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2265,7 +2303,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774444979707-i3108nd7e</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2294,7 +2332,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774444979707-i3108nd7e</odeBlockId>
           <odeIdeviceId>idevice-1774444979705-7m24s8l07</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2321,7 +2359,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774398396758-j13i1c75h</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -2350,7 +2388,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774398396758-j13i1c75h</odeBlockId>
           <odeIdeviceId>idevice-1774398396757-ymct18qjc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2377,7 +2415,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774398412493-vypvpnpez</odeBlockId>
       <blockName>Actividad 1: Escaneo básico</blockName>
       <iconName></iconName>
@@ -2406,7 +2444,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774398412493-vypvpnpez</odeBlockId>
           <odeIdeviceId>idevice-1774398412492-c5f426p15</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2440,7 +2478,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774398467344-ef5os4h6j</odeBlockId>
       <blockName>Actividad 2: Escaneo completo</blockName>
       <iconName></iconName>
@@ -2469,7 +2507,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774398467344-ef5os4h6j</odeBlockId>
           <odeIdeviceId>idevice-1774398467342-q4gzzhpqm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2502,7 +2540,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774398520334-pf8l9b6vs</odeBlockId>
       <blockName>Actividad 3: Detección de servicios</blockName>
       <iconName></iconName>
@@ -2531,7 +2569,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774398520334-pf8l9b6vs</odeBlockId>
           <odeIdeviceId>idevice-1774398520333-m61ceckcz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2564,7 +2602,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+      <odePageId>page-mo2ny45b-3arzzredh</odePageId>
       <odeBlockId>block-1774398567817-2lvqf8bhn</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -2593,7 +2631,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr2-ms6tlgt9m</odePageId>
+          <odePageId>page-mo2ny45b-3arzzredh</odePageId>
           <odeBlockId>block-1774398567817-2lvqf8bhn</odeBlockId>
           <odeIdeviceId>idevice-1774398567816-341ab15ix</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2628,8 +2666,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesión 5 - Acceso remoto con netcat </pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2664,7 +2702,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465903854-h97n0y2og</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2693,7 +2731,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465903854-h97n0y2og</odeBlockId>
           <odeIdeviceId>idevice-1774465903852-3da5ou7hb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2720,7 +2758,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465578649-uw3t41g4t</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -2749,7 +2787,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465578649-uw3t41g4t</odeBlockId>
           <odeIdeviceId>idevice-1774465578647-mee42htvb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2776,7 +2814,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465601133-agdph52wk</odeBlockId>
       <blockName>Actividad 1: Listener</blockName>
       <iconName></iconName>
@@ -2805,7 +2843,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465601133-agdph52wk</odeBlockId>
           <odeIdeviceId>idevice-1774465601132-1pwvuspvs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2839,7 +2877,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465659369-wfhjz6kky</odeBlockId>
       <blockName>Actividad 2: Conexión entre sistemas</blockName>
       <iconName></iconName>
@@ -2868,7 +2906,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465659369-wfhjz6kky</odeBlockId>
           <odeIdeviceId>idevice-1774465659367-8th4h6zad</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2902,7 +2940,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465716090-svgb6y5c4</odeBlockId>
       <blockName>Actividad 3: Interpretación</blockName>
       <iconName></iconName>
@@ -2931,7 +2969,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465716090-svgb6y5c4</odeBlockId>
           <odeIdeviceId>idevice-1774465716089-dgsxavdus</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2963,7 +3001,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+      <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
       <odeBlockId>block-1774465773495-fk88jf391</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -2992,7 +3030,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr4-ujf4imyjj</odePageId>
+          <odePageId>page-mo2ny45c-tuj3q0scs</odePageId>
           <odeBlockId>block-1774465773495-fk88jf391</odeBlockId>
           <odeIdeviceId>idevice-1774465773493-447yr4xnb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3027,8 +3065,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
-  <odeParentPageId>page-mnf56dqv-kyizqzjtl</odeParentPageId>
+  <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
+  <odeParentPageId>page-mo2ny455-95fnc6djm</odeParentPageId>
   <pageName>Sesion 6 - Elaboración de productos y cierre</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3063,7 +3101,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466955984-l13udfn2p</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -3092,7 +3130,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466955984-l13udfn2p</odeBlockId>
           <odeIdeviceId>idevice-1774466955983-adfiicxou</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3119,7 +3157,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466404512-27wyn8j70</odeBlockId>
       <blockName>Actividad 3: Reflexión final</blockName>
       <iconName></iconName>
@@ -3148,7 +3186,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466404512-27wyn8j70</odeBlockId>
           <odeIdeviceId>idevice-1774466404511-7i4v6k270</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3180,7 +3218,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466260293-hs74bw62e</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -3209,7 +3247,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466260293-hs74bw62e</odeBlockId>
           <odeIdeviceId>idevice-1774466260291-9wxqvy4je</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3236,7 +3274,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466294505-kkigjvs4z</odeBlockId>
       <blockName>Actividad 1: Infografía</blockName>
       <iconName></iconName>
@@ -3265,7 +3303,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466294505-kkigjvs4z</odeBlockId>
           <odeIdeviceId>idevice-1774466294503-i4m0d1jkb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3300,7 +3338,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466359344-zyjwd36to</odeBlockId>
       <blockName>Actividad 2: Vídeo</blockName>
       <iconName></iconName>
@@ -3329,7 +3367,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466359344-zyjwd36to</odeBlockId>
           <odeIdeviceId>idevice-1774466359342-gdzd3gn4e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3362,7 +3400,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+      <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
       <odeBlockId>block-1774466449205-43ps7jvii</odeBlockId>
       <blockName>Evaluación</blockName>
       <iconName></iconName>
@@ -3391,7 +3429,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr6-hlrdfigal</odePageId>
+          <odePageId>page-mo2ny45f-j3aksx4da</odePageId>
           <odeBlockId>block-1774466449205-43ps7jvii</odeBlockId>
           <odeIdeviceId>idevice-1774466449203-yd6wm63rj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3426,8 +3464,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr7-zgej2o8di</odePageId>
-  <odeParentPageId>page-mnf56dqj-yrrio0tx1</odeParentPageId>
+  <odePageId>page-mo2ny45h-h1c96kb0l</odePageId>
+  <odeParentPageId>page-mo2ny44w-mb1ngzaki</odeParentPageId>
   <pageName>Diccionario</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3462,7 +3500,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr7-zgej2o8di</odePageId>
+      <odePageId>page-mo2ny45h-h1c96kb0l</odePageId>
       <odeBlockId>block-1774467443852-y1henyhfz</odeBlockId>
       <blockName>Diccionario Rosco Ciberseguridad</blockName>
       <iconName>play</iconName>
@@ -3491,7 +3529,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr7-zgej2o8di</odePageId>
+          <odePageId>page-mo2ny45h-h1c96kb0l</odePageId>
           <odeBlockId>block-1774467443852-y1henyhfz</odeBlockId>
           <odeIdeviceId>idevice-1774467443849-n638zdg1x</odeIdeviceId>
           <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
@@ -3518,7 +3556,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnf56dr8-b17ugnk7q</odePageId>
+  <odePageId>page-mo2ny45i-0mkjks5mq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Atribución y Descarga</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -3554,7 +3592,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnf56dr8-b17ugnk7q</odePageId>
+      <odePageId>page-mo2ny45i-0mkjks5mq</odePageId>
       <odeBlockId>block-1774468041263-1ws3ni2vc</odeBlockId>
       <blockName>Download source file</blockName>
       <iconName></iconName>
@@ -3583,7 +3621,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnf56dr8-b17ugnk7q</odePageId>
+          <odePageId>page-mo2ny45i-0mkjks5mq</odePageId>
           <odeBlockId>block-1774468041263-1ws3ni2vc</odeBlockId>
           <odeIdeviceId>idevice-1774468041261-ceurh8z6o</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
